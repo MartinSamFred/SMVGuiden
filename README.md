@@ -1,5 +1,5 @@
 
-SMVGuiden (www.smvguiden.dk) gennemgår migration fra et CMS-system til andet, hvorfor du pt. ikke kan finde siden www.smvguiden.dk. Når migrationen på tidspunkt er veloverstået, vil artiklerne være opdaterede, men designet det samme, og der vil igen jævnligt blive publiceret nye artikler.
+SMVGuiden (www.smvguiden.dk) gennemgår migration fra et CMS-system til andet, hvorfor du pt. ikke kan finde siden www.smvguiden.dk. Når migrationen på et tidspunkt er veloverstået, vil artiklerne være opdaterede, men designet det samme, og der vil igen jævnligt blive publiceret nye artikler.
 
 Imellem tiden kan du dog finde alle artiklerne, i pdf-format, inddelt i de velkendte fire koncepter:
 
