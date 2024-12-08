@@ -9,6 +9,8 @@ Virksomhedsdrift
 
 her på github siden i mappen: SMVGuiden_pdf_artikler. 
 
+Derudover er modeller/skabeloner tilgængelig i mappen: SMVGuiden_pdf_artikler \ "Modeller_skabeloner"
+
 Tidligere nyhedsbreve, boganmeldelser mv. er ikke tilgængelige.
 
 ***************************************************************************************
