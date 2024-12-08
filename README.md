@@ -2,10 +2,15 @@ SMVGuiden (www.smvguiden.dk) gennemgår migration fra et CMS-system til andet, h
 
 Imellem tiden kan du dog finde alle artiklerne, i pdf-format, inddelt i de velkendte fire koncepter:
 
+
 Forretningskoncept
+
 Kunderelationer
+
 Organisation
+
 Virksomhedsdrift
+
 
 her på github siden i mappen: SMVGuiden_pdf_artikler. 
 
