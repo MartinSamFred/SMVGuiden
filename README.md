@@ -51,10 +51,15 @@ Hvis du har ris, ros eller spørgsmål til artiklerne kan du sende dette til kon
 ***************************************************************************************
 
 No	ARTIKEL
+
 1	Lean startup model: En ny type virksomhedsstrategi
-2	Din produktportefølje: ”Less is more”? 
+
+2	Din produktportefølje: ”Less is more”?
+
 3	Bootstrapping: Start din virksomhed, uden startkapital!
+
 4	Vækststrategi: 5 spørgsmål, du bør have svar på, før du ekspanderer din virksomhed
+
 5	Konkurrencestrategi: Hvordan kan du overvinde dine store konkurrenter?
 6	 Innovation: Har du en innovativ virksomhed?
 7	Vækststrategi: Som nyopstartet virksomhed burde du begynde med at tænke småt
