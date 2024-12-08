@@ -160,7 +160,7 @@ KUNDERELATIONER:
 
 52	MailChimp: Få styr på din e-mail marketing
 
-VIRKSOMHEDSDRIFT
+VIRKSOMHEDSDRIFT:
 
 53	Pengestrøm: Har du styr på din virksomheds cash flow?
 
