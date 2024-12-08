@@ -9,7 +9,11 @@ Virksomhedsdrift
 
 her på github siden i mappen: SMVGuiden_pdf_artikler. 
 
-Derudover er modeller/skabeloner tilgængelig i mappen: SMVGuiden_pdf_artikler \ "Modeller_skabeloner"
+Derudover er modeller/skabeloner ligeledes tilgængelige i mappen: SMVGuiden_pdf_artikler \ "Modeller_skabeloner".
+
+***************************************************************************************
+
+Artikeloversigt/indholdsfortegnelse: SMVGuiden_pdf_artikler \ artikeloversigt.pdf
 
 Tidligere nyhedsbreve, boganmeldelser mv. er ikke tilgængelige.
 
@@ -26,3 +30,5 @@ Danmark
 CVR-nr.: 42706957
 
 Hvis du har ris, ros eller spørgsmål til artiklerne kan du sende dette til kontakt@insivigo.dk.
+
+
